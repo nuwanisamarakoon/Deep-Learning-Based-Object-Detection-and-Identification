@@ -18,26 +18,6 @@ The project is designed as a simple and practical implementation suitable for ac
 
 ---
 
-## Project Structure
-
-Deep Learning-Based Object Detection and Identification/
-│
-├── data/
-│ └── input_video.mp4
-│
-├── models/
-│ └── yolov8n.pt
-│
-├── src/
-│ ├── detect.py
-│ └── track.py
-│
-├── requirements.txt
-└── README.md
-
-
----
-
 ## Requirements
 
 - Python 3.10 or higher  
